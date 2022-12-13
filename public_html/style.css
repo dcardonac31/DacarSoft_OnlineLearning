@@ -39,10 +39,15 @@ body {
     height: 415px
 }
 
+.nav-link {
+    color: white;
+    font-size: larger;
+}
 
 .nav-link:hover {
     text-decoration: underline;
     color: white;
+    font-size: x-large;
 }
 
 .navbar-expand-lg {
